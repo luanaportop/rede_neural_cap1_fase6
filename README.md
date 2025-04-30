@@ -117,7 +117,7 @@ A implementação da CNN do zero também está disponível no notebook acima, em
 
     🔗 Entrega 1 + 2: Assista no YouTube: https://youtu.be/Ml2_Ubd3A3A
 
-    🔗 Ir Além - ESP32-CAM: Assista no YouTube
+    🔗 Ir Além - ESP32-CAM: Assista no YouTube: https://youtu.be/I5PSV_cWrBo
 
 
 ## 🗃 Histórico de lançamentos
