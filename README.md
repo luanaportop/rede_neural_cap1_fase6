@@ -65,7 +65,7 @@ Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
         Análise comparativa dos resultados obtidos
 
 
-## 🎥 Link do vídeo: ...
+## 🎥 Link do vídeo: (https://youtu.be/Ml2_Ubd3A3A)
 
 🧠 CNN treinada do zero
 
@@ -115,7 +115,7 @@ A implementação da CNN do zero também está disponível no notebook acima, em
 
 🎥 Demonstrações em Vídeo
 
-    🔗 Entrega 1 + 2: Assista no YouTube
+    🔗 Entrega 1 + 2: Assista no YouTube: https://youtu.be/Ml2_Ubd3A3A
 
     🔗 Ir Além - ESP32-CAM: Assista no YouTube
 
